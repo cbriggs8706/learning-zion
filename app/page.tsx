@@ -18,7 +18,7 @@ export default function Home() {
 			</CardDescription> */}
 			<CardContent>
 				<p className="text-center">
-					This website is being updated. Check back soon!
+					This website is being updated. Don't worry, will be back soon!
 				</p>
 			</CardContent>
 		</Card>
